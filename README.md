@@ -18,4 +18,3 @@ A simple Spring Boot project to learn and implement **Spring Security authentica
 ## 🎯 Purpose
 
 This project was created for learning **Spring Security fundamentals** and building a foundation for advanced authentication such as JWT.
-about the Token
