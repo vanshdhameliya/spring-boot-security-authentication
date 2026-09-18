@@ -1,7 +1,5 @@
 # Spring Boot Security Authentication 🔐
 
-security
-
 A simple Spring Boot project to learn and implement **Spring Security authentication and authorization**.
 
 ## 📚 Concepts Covered
